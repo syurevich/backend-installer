@@ -1,4 +1,4 @@
-replicaCount: 3
+replicaCount: 2
 
 image:
   # Helm chart: https://github.com/kyverno/kyverno/blob/<RELEASE>/charts/kyverno/values.yaml
